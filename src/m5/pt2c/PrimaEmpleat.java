@@ -11,7 +11,7 @@ public class PrimaEmpleat {
     private int antiguitat;
 
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("test haha");
         PrimaEmpleat e = new PrimaEmpleat("Elvira", "S", 11);
         int p = 0;
         if (e.antiguitat >= 0 && e.antiguitat < 1000) {
